@@ -29,6 +29,11 @@ Example: **Kali Linux** now uses **XFCE** instead of GNOME.
       ```bash
       sudo apt install gnome-extensions
       ```
+* **Conky (Widgets) and Wallpaper**
+    To install Conky on Linux, Run the following command:
+    ```bash
+    sudo apt install conky
+    ```
 
 ## GNOME Extensions
 GNOME extensions are small add-ons that enhance the functionality and appearance of your GNOME desktop. Here are some popular extensions you might find useful:
